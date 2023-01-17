@@ -1,6 +1,6 @@
 # Spellerize
 
-A Chrome extension for swapping US with UK spelling on The Register.
+Une extension pour Google Chrome qui retire le i de ognon.
 
 ## Authors
 
